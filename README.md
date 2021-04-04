@@ -9,4 +9,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrissxYT&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Ampless TL](https://github-readme-stats.vercel.app/api/top-langs/?username=Ampless&custom_title=Ampless)](https://github.com/anuraghazra/github-readme-stats)
+[![chrissxYT TL](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissxYT&exclude_repo=old_CRecord,old_Mover,old_chrissx-Server,old_server-rewrite,old_CUtils_infected,old_CNetworking,CXClient,old_GameEngine,juno666&custom_title=chrissxYT,langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 I plan to write a proper profile _some_ time in the future, but idk when that will be.

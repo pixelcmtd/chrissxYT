@@ -9,6 +9,6 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrissxYT&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissxYT&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 I plan to write a proper profile _some_ time in the future, but idk when that will be.

@@ -9,6 +9,4 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrissxYT&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissxYT&hide=csharp,java,html)](https://github.com/anuraghazra/github-readme-stats)
-
 I plan to write a proper profile _some_ time in the future, but idk when that will be.

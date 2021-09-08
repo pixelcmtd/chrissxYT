@@ -6,4 +6,4 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/pixelcmtd) (email once i fixed my postfix, Signal if you know me)
 - 😄 Pronouns: they/them or she/her
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelcmtd&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelcmtd&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
